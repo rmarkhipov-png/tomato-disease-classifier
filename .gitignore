@@ -1,0 +1,23 @@
+﻿# Large files
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.pkl
+*.weights
+*.ckpt
+checkpoints/
+models/
+data/
+dataset/
+*.zip
+*.tar
+*.gz
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+env/
+venv/
+.venv/

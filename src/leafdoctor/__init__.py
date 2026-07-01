@@ -1,0 +1,1 @@
+"""LeafDoctor – plant disease classifier."""
